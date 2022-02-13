@@ -28,6 +28,6 @@ export default {
   width: 100%;
   overflow: hidden;
   color: white;
-  background-image: linear-gradient(to top, #99acbe 5%, #a8b3bf 20%, #cfd7dd);
+  background-image: linear-gradient(to top, #99acbe 5%, #a8b3bf 20%, #cfd7dd);12
 }
 </style>
